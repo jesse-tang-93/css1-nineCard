@@ -9,7 +9,7 @@ ul:after{
 }
 ul{
     margin: 0 auto;
-    width: 50%;
+    width: 100%;
 }
 li:before{
     content: "";padding-top: 100%;display: block;
@@ -24,8 +24,8 @@ li.list{
     margin-top: 10px;
     border-radius: 10px;
 }
-/*asdjf*/
+/*asdjf
 @media screen and (max-width:750px) {
     ul{width: 100%}
 
-}
+}*/
